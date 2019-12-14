@@ -1,6 +1,7 @@
 # A basic e-commerce app with React Native
 
 A very small e-commerce application focussing on fundamentals of React Native. The app consists of a landing page with a product list page & a product display page.
+Read the tutorial on CodeSource.io - https://codesource.io/e-commerce-app-with-react-native/
 
 ## Prerequisites
 
